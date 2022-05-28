@@ -24,12 +24,13 @@
     <br>
     <p style="color: #0000FF; font-weight: bold;">🎨 Layout</p>
 </h1>
-     ![image](https://user-images.githubusercontent.com/79269477/170835664-a159524b-6b0c-436d-99b2-70a62dfbdc9b.png)
-     ![image](https://user-images.githubusercontent.com/79269477/170835722-773290f5-98b5-4f97-be06-b0dbb5d07a48.png)
-     ![image](https://user-images.githubusercontent.com/79269477/170835755-0f743bcb-ca76-40d3-93c4-269fbe30ae4f.png)
-     ![image](https://user-images.githubusercontent.com/79269477/170835796-cc7d3a7f-b906-49e0-88ca-e9d460f3c582.png)
-     ![image](https://user-images.githubusercontent.com/79269477/170835833-52a33098-d632-40ef-b8d4-5cc498097a05.png)
-     ![image](https://user-images.githubusercontent.com/79269477/170835866-8d8a44fb-72fd-4fe9-b23e-eb6af23329f2.png)
+
+<p align="center">
+     <img src="./imagem/img1.png"  width="200px">
+     <img src="./src/assets/viagem7.png" width="200px">
+     <img src="./src/assets/viagem8.png" width="200px">
+  
+</p>
 ---
 
 <h1>
