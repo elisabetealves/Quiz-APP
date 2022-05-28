@@ -37,10 +37,7 @@
 </p>
 ---
 <h1> Vídeo </h1>
-
- <video width="320" height="240" controls>
-       <source src="./imagem/video.mp4" type="video/mp4">
-   </video>
+    <video src=”[meuvideo.mp4](https://youtu.be/UqcCfDFHods)″ width=”300″ height=”150″ poster=”teste.jpg” controls> </video>
 ----
 
 <h1>
