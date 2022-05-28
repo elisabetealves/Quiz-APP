@@ -36,9 +36,12 @@
      <img src="./imagem/img6.pngg" width="200px">
 </p>
 ---
+<h1> Vídeo </h1>
 
-<video width="320" height="240" controls="controls" autoplay="autoplay" src="./imagem/video.mp4" type="video/mp4">
-</video>
+ <video width="320" height="240" controls>
+       <source src="./imagem/video.mp4" type="video/mp4">
+   </video>
+----
 
 <h1>
     <br>
