@@ -36,8 +36,8 @@
      <img src="./imagem/img6.pngg" width="200px">
 </p>
 ---
-<video width="320" height="240" controls="controls" autoplay="autoplay">
-<source src="./imagem/video.mp4" type="video/mp4">
+
+<video width="320" height="240" controls="controls" autoplay="autoplay" src="./imagem/video.mp4" type="video/mp4">
 </video>
 
 <h1>
@@ -62,8 +62,11 @@
 
 <br>
 - Carlos Alberto - Scrum Master
+
 - Elisabete Alves - dev
+
 - Jéssica - dev
+
 - Paulo Henrique- Product Own 
 
 <br>
