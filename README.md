@@ -27,11 +27,18 @@
 
 <p align="center">
      <img src="./imagem/img1.png"  width="200px">
-     <img src="./src/assets/viagem7.png" width="200px">
-     <img src="./src/assets/viagem8.png" width="200px">
-  
+     <img src="./imagem/img2.png" width="200px">
+     <img src="./imagem/img3.png" width="200px">
+</p>
+<p align="center">
+     <img src="./imagem/img4.png"  width="200px">
+     <img src="./imagem/img5.png" width="200px">
+     <img src="./imagem/img6.pngg" width="200px">
 </p>
 ---
+<video width="320" height="240" controls="controls" autoplay="autoplay">
+<source src="./imagem/video.mp4" type="video/mp4">
+</video>
 
 <h1>
     <br>
