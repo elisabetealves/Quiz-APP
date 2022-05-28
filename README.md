@@ -33,12 +33,9 @@
 <p align="center">
      <img src="./imagem/img4.png"  width="200px">
      <img src="./imagem/img5.png" width="200px">
-     <img src="./imagem/img6.pngg" width="200px">
+     <img src="./imagem/img6.png" width="200px">
 </p>
----
-<h1> Vídeo </h1>
-    <video src=”https://youtu.be/UqcCfDFHods″ width=”300″ height=”150″ poster=”teste.jpg” controls> </video>
-----
+
 
 <h1>
     <br>
