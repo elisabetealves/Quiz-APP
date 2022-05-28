@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="justify"> <strong>Trevellove</strong> é um aplicado em forma de quiz para o usuário descobrir de qual país pertence cada bandeira no fim mostra o resultado com pontuação e nome do usuário inserido no começo do jogo.
+<p align="justify"> <strong>QUIZ APP</strong> é um aplicado em forma de quiz para o usuário descobrir de qual país pertence cada bandeira no fim mostra o resultado com pontuação e nome do usuário inserido no começo do jogo.
 <br>
 
 <h1>
@@ -20,10 +20,10 @@
 <br>
 
 
-<h1>
+<!-- <h1>
     <br>
     <p style="color: #0000FF; font-weight: bold;">🎨 Layout</p>
-</h1>
+</h1> -->
 
 
 <!-- <p align="center">
@@ -57,10 +57,11 @@
     <p style="color: #0000FF; font-weight: bold;">👋 Integrantes da Equipe</p>
 </h1>
 
-_ Carlos Alberto - Scrum Master_
-_Elisabete Alves - dev_
-_Jéssica - dev
-_Paulo Henrique- Product Own _
+<br>
+- Carlos Alberto - Scrum Master
+- Elisabete Alves - dev
+- Jéssica - dev
+- Paulo Henrique- Product Own 
 
 <br>
 
